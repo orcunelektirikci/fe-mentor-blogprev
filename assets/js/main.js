@@ -6,6 +6,7 @@
         extend: {
             boxShadow: {
                 'harsh': '.5rem .5rem 0 0 rgba(0, 0, 0, 1)',
+                'away': '.8rem .8rem 0 0 rgba(0, 0, 0, 1)',
             },
           colors: {
             black: '#111',
